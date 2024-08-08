@@ -34,3 +34,4 @@ matriz = [
 print(matriz) # Imprime la matriz
 print(matriz[0]) # Imprime la primer fila de la matriz
 print(matriz[0][0]) # Imprime el primer valor de la primer fila de la matriz
+
